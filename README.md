@@ -5,3 +5,5 @@
 
 Github网页操作教程：https://blog.csdn.net/kabulore/article/details/51801337
 Github桌面版教程： https://www.jianshu.com/p/06a960d991aa
+
+大家先自己建立自己的分支，命名同：cth
