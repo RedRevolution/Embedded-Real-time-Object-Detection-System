@@ -6,4 +6,4 @@
 Github网页操作教程：https://blog.csdn.net/kabulore/article/details/51801337
 Github桌面版教程： https://www.jianshu.com/p/06a960d991aa
 
-大家建立自己的分支，命名如：cth，讨论后再合并到master，大家有更新就PUll
+大家建立自己的分支，命名如：cth，讨论后再合并到master，大家有更新就pull request
