@@ -23,3 +23,6 @@ VNC： https://www.jianshu.com/p/467335f07e05
 小车： https://www.cnblogs.com/lihanxiang/p/8449025.html
       https://www.cnblogs.com/lihanxiang/p/8451299.html
       https://www.cnblogs.com/lihanxiang/p/8451818.html
+      
+
+目标检测网络demo：https://blog.csdn.net/leadai/article/details/79737226
