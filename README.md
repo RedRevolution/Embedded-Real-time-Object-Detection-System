@@ -14,4 +14,8 @@ Github桌面版教程： https://www.jianshu.com/p/06a960d991aa
 
 网络教程： https://www.jianshu.com/p/467335f07e05
           https://blog.csdn.net/tavox/article/details/70994392
-          https://www.cnblogs.com/lihanxiang/p/8449025.html
+          https://www.cnblogs.com/lihanxiang/p/8449025.h
+          
+VNC： https://www.jianshu.com/p/467335f07e05
+      https://blog.csdn.net/tavox/article/details/70994392
+      https://blog.csdn.net/wanyeye/article/details/52879807
