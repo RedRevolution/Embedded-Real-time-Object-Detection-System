@@ -32,3 +32,7 @@ SiameseFC的tf：https://blog.csdn.net/sansanfree/article/details/79718734
 siamese源码：https://github.com/lzane/SiamFC-tf  （8 stars）
 siamese源码：https://github.com/bilylee/SiamFC-TensorFlow  （179 stars）
 siamese源码： https://github.com/torrvision/siamfc-tf  （455  stars）
+
+
+
+tensorflow野鸡教程：https://github.com/amusi/TensorFlow-From-Zero-To-One
