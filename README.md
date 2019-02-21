@@ -13,7 +13,7 @@ Github桌面版教程： https://www.jianshu.com/p/06a960d991aa
  dada
 </pre>
 
-树莓派教程(杨老师版)：https://pan.baidu.com/s/12W7iphoFuBxd6tRxNhOxPg
+树莓派da教程(杨老师版)：https://pan.baidu.com/s/12W7iphoFuBxd6tRxNhOxPg
                     https://pan.baidu.com/s/1reEf7SRjp6oxWqfTfh6jBg
 
 网络教程： https://www.jianshu.com/p/467335f07e05
