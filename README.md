@@ -9,11 +9,8 @@ Github桌面版教程： https://www.jianshu.com/p/06a960d991aa
 大家建立自己的分支，命名如：cth，讨论后再合并到master，大家有更新就pull request
 
 项目基于demo：https://www.cnblogs.com/yangykaifa/p/7305081.html
-<pre>
- dada
-</pre>
 
-树莓派da教程(杨老师版)：https://pan.baidu.com/s/12W7iphoFuBxd6tRxNhOxPg
+树莓派教程(杨老师版)：https://pan.baidu.com/s/12W7iphoFuBxd6tRxNhOxPg
                     https://pan.baidu.com/s/1reEf7SRjp6oxWqfTfh6jBg
 
 网络教程： https://www.jianshu.com/p/467335f07e05
