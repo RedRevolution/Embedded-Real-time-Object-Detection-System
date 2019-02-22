@@ -11,6 +11,10 @@
 
 ![](assets/C5C34C3FD3A72A7FEAEA10127F848D8F.jpg)
 
+![](assets/TIM图片20190222173145.png)
+
+
+
 - [Github网页操作教程]: https://blog.csdn.net/kabulore/article/details/51801337
 
 - [Github桌面版教程]: https://www.jianshu.com/p/06a960d991aa
