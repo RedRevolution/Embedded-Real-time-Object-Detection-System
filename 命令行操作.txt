@@ -1,1 +1,0 @@
-mvNCCompile red.meta -s 12 -is 300 300 -o red.graph
