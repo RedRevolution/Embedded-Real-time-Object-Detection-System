@@ -9,7 +9,7 @@
 
 功能：在树莓派上部署Mobinenet_SSD，NCS加速棒对图像推理加速，PC端通过xrdp远程连接树莓派，控制小车的移动
 
-![C5C34C3FD3A72A7FEAEA10127F848D8F](assets\C5C34C3FD3A72A7FEAEA10127F848D8F.jpg)
+![](assets/C5C34C3FD3A72A7FEAEA10127F848D8F.jpg)
 
 - [Github网页操作教程]: https://blog.csdn.net/kabulore/article/details/51801337
 
